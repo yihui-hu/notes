@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Article.astro
+layout: ../../layouts/Notes.astro
 title: "Obsidian Git"
 pubDate: 2023-02-07
 description: "Obsidian Git Plugin"
