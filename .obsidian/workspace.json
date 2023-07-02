@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "190a826fb36867fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "261f39d160ff1a9c",
+  "active": "77c39b3aea9195c4",
   "lastOpenFiles": [
-    "untitled folder",
     "README.md",
-    "obsidian-git.md"
+    "Untitled.canvas",
+    "obsidian-git.md",
+    "untitled folder"
   ]
 }
