@@ -1,3 +1,11 @@
-# notes
+---
+layout: ../../layouts/Article.astro
+title: "README"
+pubDate: 2023-02-07
+description: "Notes README"
+author: "Yihui Hu"
+---
 
-notes written in Obsidian and exposed to my Astro site
+## Notes
+
+Notes written in [Obsidian](https://obsidian.md) and exposed to my [Astro site](https://yihui.work).  
