@@ -1,2 +1,2 @@
-# yihui-work-journal
+# notes
 notes written in Obsidian and exposed to my Astro site
