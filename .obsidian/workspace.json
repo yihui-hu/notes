@@ -20,27 +20,19 @@
             }
           },
           {
-            "id": "2d96663b2b46fea6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "190a826fb36867fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git.md.md",
+                "file": "obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git.md.md",
+                "file": "obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git.md.md",
+                "file": "obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-git.md.md"
+                "file": "obsidian-git.md"
               }
             }
           }
@@ -170,6 +162,6 @@
   "active": "190a826fb36867fb",
   "lastOpenFiles": [
     "README.md",
-    "obsidian-git.md.md"
+    "obsidian-git.md"
   ]
 }
