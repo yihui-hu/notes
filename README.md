@@ -8,5 +8,4 @@ author: "Yihui Hu"
 
 ## Notes
 
-Notes written in [Obsidian](https://obsidian.md) and exposed to my [Astro site](https://yihui.work).  
-O
+Notes written in [Obsidian](https://obsidian.md) and exposed to my [Astro site](https://yihui.work).

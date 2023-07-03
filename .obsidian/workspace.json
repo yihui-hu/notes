@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown-stress-test.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown-stress-test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown-stress-test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown-stress-test.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "8e388b88aa711ec6",
   "lastOpenFiles": [
-    "obsidian-git.md",
     "markdown-stress-test.md",
+    "obsidian-git.md",
     "id.md",
     "README.md",
     "Untitled.canvas",
