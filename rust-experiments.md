@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Notes.astro
+layout: ../../layouts/Note.astro
 title: "Experiments with Rust"
 pubDate: 2023-03-07
 description: "I'm trying to learn Rust"

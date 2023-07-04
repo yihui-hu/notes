@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-todos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-todos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-todos.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-todos.md"
+                "file": "README.md"
               }
             }
           }
@@ -198,12 +198,12 @@
   },
   "active": "ce93a407f0aa1102",
   "lastOpenFiles": [
+    "obsidian-todos.md",
     "rust-experiments.md",
     "README.md",
-    "multiplayer-on-the-web.md",
-    "obsidian-todos.md",
-    "obsidian-git.md",
     "markdown-stress-test.md",
+    "multiplayer-on-the-web.md",
+    "obsidian-git.md",
     "id.md",
     "Untitled.canvas",
     "untitled folder"

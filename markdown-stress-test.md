@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Notes.astro
+layout: ../../layouts/Note.astro
 title: "Markdown Stress Test"
 pubDate: 2023-03-07
 description: "Stress testing Markdown styles"

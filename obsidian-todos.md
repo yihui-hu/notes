@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Notes.astro
+layout: ../../layouts/Note.astro
 title: "Obsidian Todos"
 pubDate: 2023-03-07
 description: "Obsidian Todos"

@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Article.astro
+layout: ../../layouts/Note.astro
 title: "README"
 pubDate: 2023-02-07
 description: "Notes README"

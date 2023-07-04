@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/Notes.astro
+layout: ../../layouts/Note.astro
 title: "Multiplayer on the Web"
 pubDate: 2023-03-07
 description: "CRDTs, Yjs, WebSockets, WebRTC, etc."
